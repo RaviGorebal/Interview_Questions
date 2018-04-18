@@ -1,0 +1,7 @@
+1) CurrentModificationException ?
+2) in hashmap , does allow the dupliacte keys?
+3) deadlock ?
+4) bean scopes ? if we define the prototypt ref in simleton and vice-versa, what will happen ?
+5) retrospective ?
+6) definitions the done in jira ?
+7)  
